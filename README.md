@@ -1,17 +1,25 @@
 # Tritium Cyber Defence © 2023
 ![image](https://avatars.githubusercontent.com/u/120298024?v=4)
 
-This software comes with absolutely no warranty or liability
+This software comes with absolutely no warranty or liability! 
+
+Dont run the LCD driver script for anything other than the screen!   
+
 
 # CYBERDECK MK-1.0
 
-What happens when you mix some, redbull, a little fireball whiskey, a bunch of copper, silicone and sheer will? 
-Why of course its the CYBERDECK MK1.0 !! 
+Introducing the ultimate tool for all your Phase 1 recon and OSINT needs - the CYBERDECK MK1.0! But what exactly is it, you ask? 
+Well, picture this: you mix some Red Bull, a little Fireball whiskey, a bunch of copper, silicone, and sheer will, and what do you get? You guessed it - the CYBERDECK MK1.0!
 
-This repo contains files and programs to build your own cyberdeck, im using these scripts for ease of use on my pi400 cyberdeck build. 
-Its about as budget friendly I could get, while pushing as much processing power I could squeeze out of a Pi. 
-Utilising Pi's keyboard computer combo and Adafruit / DFrobot screens and drivers, aswell as the muchloved Kali toolset and aircrack software, 
-I created this nifty little network auditing and packet sniffing cyberdeck. May your Phase 1 recon and OSINT needs be considered done. With the CYBERDECK MK1.0 
+
+This amazing repository contains files and programs to help you build your very own cyberdeck.
+Using these scripts, you can easily build a budget-friendly cyberdeck that packs a serious punch in terms of processing power (for its size).
+With the power of the Raspberry Pi's keyboard computer combo, a DFrobot screen and driver, along with the much-loved Kali toolset and Aircrack software, you can create a nifty little network auditing and packet sniffing cyberdeck that will blow your mind!
+
+Gone are the days of struggling to find the right tools for your network security testing needs. With the CYBERDECK MK1.0, you have everything you need to perform advanced network analysis and attacks. So what are you waiting for? Build your very own cyberdeck today and take your network security game to the next level!
+
+May your Phase 1 recon and OSINT needs be considered done. With the CYBERDECK MK1.0 
+
 T&Cs apply, check you local laws, im not responsible, Dont use it for bad, yadda yadda, insert legal documents here: 
 
 I showed one of my friends after a couple beers and he said it looks like a yugioh card deck, see below: 
