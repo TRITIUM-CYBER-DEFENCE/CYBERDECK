@@ -9,7 +9,8 @@ Dont run the LCD driver script for anything other than the screen!
 # CYBERDECK MK-1.0
 
 Introducing the ultimate tool for all your Phase 1 recon and OSINT needs - the CYBERDECK MK1.0! But what exactly is it, you ask? 
-Well, picture this: you mix some Red Bull, a little Fireball whiskey, a bunch of copper, silicone, and sheer will, and what do you get? You guessed it - the CYBERDECK MK1.0!
+Well, picture this: you slowly mix the following in a large bowl: Adderall, a little Fireball whiskey, a bunch of copper, silicone, and sheer will, and what do you get?
+You guessed it - the CYBERDECK MK1.0!
 
 
 This amazing repository contains files and programs to help you build your very own cyberdeck.
@@ -137,3 +138,13 @@ tcpdump https://www.tcpdump.org/
 systemd networking tools (using ip a, etc) 
 
 Kali Linux ARM 64Bit https://kali.download/arm-images/kali-2023.1/kali-linux-2023.1-raspberry-pi-arm64.img.xz
+
+## MEDIA 
+
+![image](https://user-images.githubusercontent.com/120298024/235828634-3235cfd9-b427-4ad3-b793-48cfb8bf6a93.png)
+
+
+The only music that gets me through these god forsaken projects: 
+https://www.youtube.com/watch?v=I6n3sZlqrCs
+https://www.youtube.com/watch?v=8NWHnWbpxmc
+https://www.youtube.com/watch?v=pZhUS_q4jkc
