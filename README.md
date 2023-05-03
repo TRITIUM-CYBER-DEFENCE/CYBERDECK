@@ -23,7 +23,7 @@ May your Phase 1 recon and OSINT needs be considered done. With the CYBERDECK MK
 
 T&Cs apply, check you local laws, im not responsible, Dont use it for bad, yadda yadda, insert legal documents here: 
 
-I showed one of my friends after a couple beers and he said it looks like a yugioh card deck, see below: 
+From an anonymous source: It looks like a yugioh card deck, see below: 
 
 ![image](https://user-images.githubusercontent.com/111553838/235816204-10f7dd93-4c44-4003-a509-ce212c273afb.png)
 
