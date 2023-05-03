@@ -9,7 +9,7 @@ Dont run the LCD driver script for anything other than the screen!
 # CYBERDECK MK-1.0
 
 Introducing the ultimate tool for all your Phase 1 recon and OSINT needs - the CYBERDECK MK1.0! But what exactly is it, you ask? 
-Well, picture this: you slowly mix the following in a large bowl: Adderall, a little Fireball whiskey, a bunch of copper, silicone, and sheer will, and what do you get?
+Well, picture this: you slowly mix the following in a large bowl: A bunch of copper, nodoz, redbull, silicone, and sheer will, and what do you get?
 You guessed it - the CYBERDECK MK1.0!
 
 
